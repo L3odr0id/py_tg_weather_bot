@@ -1,0 +1,6 @@
+pyTelegramBotApi
+lxml
+bs4~=0.0.1
+requests==2.20.0
+pysocks
+beautifulsoup4~=4.10.0
